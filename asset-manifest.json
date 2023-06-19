@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MERN_REACTJS_TASK6/static/css/main.97260a3b.css",
+    "main.js": "/MERN_REACTJS_TASK6/static/js/main.fc6ef1c9.js",
+    "static/js/787.0adc0c45.chunk.js": "/MERN_REACTJS_TASK6/static/js/787.0adc0c45.chunk.js",
+    "static/media/myImage.jpg": "/MERN_REACTJS_TASK6/static/media/myImage.93ae7317c7bd61dc6c88.jpg",
+    "static/media/linkedin-icon.jpg": "/MERN_REACTJS_TASK6/static/media/linkedin-icon.70215de291f3f9d9d15d.jpg",
+    "static/media/email-icon.jpg": "/MERN_REACTJS_TASK6/static/media/email-icon.32a3672d83923bedae0f.jpg",
+    "static/media/github-icon.jpg": "/MERN_REACTJS_TASK6/static/media/github-icon.13df0a5edac4aeb7d103.jpg",
+    "index.html": "/MERN_REACTJS_TASK6/index.html",
+    "main.97260a3b.css.map": "/MERN_REACTJS_TASK6/static/css/main.97260a3b.css.map",
+    "main.fc6ef1c9.js.map": "/MERN_REACTJS_TASK6/static/js/main.fc6ef1c9.js.map",
+    "787.0adc0c45.chunk.js.map": "/MERN_REACTJS_TASK6/static/js/787.0adc0c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97260a3b.css",
+    "static/js/main.fc6ef1c9.js"
+  ]
+}
